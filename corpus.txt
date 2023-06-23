@@ -1,0 +1,13 @@
+Hello, da Big World!
+Who is da Biggy Worldy?
+Yes, it's you. You the programmar!
+
+Hello, World, da Big World!
+You will drive the progress of entire world!
+Using Python, Tensorflow and machine learning
+Predicting the future.
+
+To print "Hello, World!" use print() function in Python.
+In other languages printing may differ, for example
+in Java, you should use System.out.println() and in C# -
+Console.WriteLine()
